@@ -11,14 +11,21 @@ body {
 	color: #acd1b2;
 	color: gold;
 }
-
+.red-text {
+    color: red;
+  }
 img {
-	height: 170px;
-	width: 170px;
+	height: 100px;
+	width: 100px;
 	box-shadow: rgba(0,0,0,0.2) 10px 10px;
 
 }
-
+ .thick-green-border {
+    border-color: green;
+    border-width: 10px;
+    border-style: solid;
+    border-radius: 50%;
+  }
 article {
     float: left;
     padding: 10px;
@@ -33,9 +40,14 @@ ul{
 li {
 	
 }
+.silver-background{
+	background-color: silver;
+	margin: 30px;
+	padding: 5px;
 
+}
 p {
-	font-family: Tahoma;
+	font-family: monospace;
 	font-size: 1em;
 	color:red
 }
