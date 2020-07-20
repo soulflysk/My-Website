@@ -1,3 +1,3 @@
 # My-Website
 Gap task
-เป็นงานที่เพื่อนผมชื่อ Gap ให้ทำ ผมจึงใส่ content เป็นเนื้อหาเชิญชวนให้คนไทยหันมาเขียนการ์ตูนสำหรับเด็กกันเยอะ ๆ ครับ โดยใช้ Bulma
+It is a job that my friend named Gap want me to do. so I put content about to invite Thai people turn to write cartoon for kids using Bulma.
